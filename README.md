@@ -15,6 +15,13 @@
 - [ApiOpenStudio Admin](https://github.com/naala89/apiopenstudio_admin)
 - [ApiOpenStudio Docker](https://github.com/naala89/apiopenstudio_docker_dev)
 
+#### Plugins
+
+##### Transport
+
+- [S3](https://github.com/naala89/plugins_transport_s3)
+- [FTP](https://github.com/naala89/plugins_transport_ftp)
+
 ### Drupal
 
 #### Modules
