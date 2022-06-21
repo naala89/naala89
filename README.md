@@ -19,9 +19,11 @@
 
 ##### Transport
 
-- [S3](https://github.com/naala89/plugins_transport_s3)
 - [FTP](https://github.com/naala89/plugins_transport_ftp)
 - [SFTP](https://github.com/naala89/plugins_transport_sftp)
+- [S3](https://github.com/naala89/plugins_transport_s3)
+- [Google Cloud](https://github.com/naala89/plugins_transport_google_cloud)
+- [Azure Blob](https://github.com/naala89/plugins_transport_azure_blob)
 
 ### Drupal
 
