@@ -21,6 +21,7 @@
 
 - [S3](https://github.com/naala89/plugins_transport_s3)
 - [FTP](https://github.com/naala89/plugins_transport_ftp)
+- [SFTP](https://github.com/naala89/plugins_transport_sftp)
 
 ### Drupal
 
