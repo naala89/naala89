@@ -13,7 +13,8 @@
 
 - [ApiOpenStudio](https://github.com/naala89/apiopenstudio)
 - [ApiOpenStudio Admin](https://github.com/naala89/apiopenstudio_admin)
-- [ApiOpenStudio Docker](https://github.com/naala89/apiopenstudio_docker_dev)
+- [ApiOpenStudio Docker (dev)](https://github.com/naala89/apiopenstudio_docker_dev)
+- [ApiOpenStudio Docker Admin (prod)](https://github.com/naala89/apiopenstudio_admin)
 
 #### Plugins
 
