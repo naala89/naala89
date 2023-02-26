@@ -7,43 +7,46 @@
 
 #### Wesbite
 
-[https://www.apiopenstudio.com](https://www.apiopenstudio.com)
+[https://www.apiopenstudio.com][web_apiopenstudio]
 
 #### Repositories
 
-- [ApiOpenStudio](https://github.com/naala89/apiopenstudio)
-- [ApiOpenStudio Admin](https://github.com/naala89/apiopenstudio_admin)
-- [ApiOpenStudio Docker (dev)](https://github.com/naala89/apiopenstudio_docker_dev)
+- [ApiOpenStudio][apiopenstudio]
+- [ApiOpenStudio Admin][apiopenstudio_admin]
+- [ApiOpenStudio Docker (reverse proxy)][apiopenstudio_docker_reverse_proxy]
+- [ApiOpenStudio Docker (core development)][apiopenstudio_docker_dev]
 
 #### Plugins
 
 ##### Transport
 
-- [FTP](https://github.com/naala89/plugins_transport_ftp)
-- [SFTP](https://github.com/naala89/plugins_transport_sftp)
-- [S3](https://github.com/naala89/plugins_transport_s3)
-- [Google Cloud](https://github.com/naala89/plugins_transport_google_cloud)
-- [Azure Blob](https://github.com/naala89/plugins_transport_azure_blob)
+- [FTP][transport_ftp]
+- [SFTP][transport_sftp]
+- [S3][transport_s3]
+- [Google Cloud][transport_google_cloud]
+- [Azure Blob][transport_azure_blob]
 
 ### Drupal
 
 #### Modules
 
-- [Commerce Commonwealth](https://www.drupal.org/project/commerce_commonwealth)
-- [Marketing Cloud API](https://www.drupal.org/project/marketing_cloud_api)
-- [NVP field](https://www.drupal.org/project/nvp)
+- [Commerce Commonwealth][drupal_commerce_commonwealth]
+- [Marketing Cloud API][drupal_marketing_cloud_api]
+- [NVP field][drupal_npv_field]
 
-<!--
-**naala89/naala89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[web_apiopenstudio]: https://www.apiopenstudio.com
 
-Here are some ideas to get you started:
+[apiopenstudio]: https://github.com/naala89/apiopenstudio
+[apiopenstudio_admin]: https://github.com/naala89/apiopenstudio_admin
+[apiopenstudio_docker_dev]: https://github.com/naala89/apiopenstudio_docker_dev
+[apiopenstudio_docker_reverse_proxy]: https://github.com/naala89/apiopenstudio_reverse_proxy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[transport_ftp]: https://github.com/naala89/plugins_transport_ftp
+[transport_sftp]: https://github.com/naala89/plugins_transport_sftp
+[transport_s3]: https://github.com/naala89/plugins_transport_s3
+[transport_google_cloud]: https://github.com/naala89/plugins_transport_google_cloud
+[transport_azure_blob]: https://github.com/naala89/plugins_transport_azure_blob
+
+[drupal_commerce_commonwealth]: https://www.drupal.org/project/commerce_commonwealth
+[drupal_marketing_cloud_api]: https://www.drupal.org/project/marketing_cloud_api
+[drupal_npv_field]: https://www.drupal.org/project/nvp
